@@ -43,7 +43,17 @@
 ⭐ **최근 일주일, 한달, 전체 기간동안 인기가 많은 주류를 알려줍니다!**
 
 최근 리뷰가 달린 제품중 일주일, 한달, 전체 기간동안 많은 리뷰가 달린 제품을 추천해줍니다!
+
 ![week-gif](https://github.com/rrimm/mariage/assets/119832853/1a486566-4f71-4ad8-b346-47cdaad1a1b5)
+
+</br>
+
+⭐ **추천 알고리즘을 활용하여 사용자에게 주류를 추천해줍니다!**
+
+사용자가 남긴 리뷰 데이터를 기반으로 제품을 추천해줍니다!
+
+![recommend-gif](https://github.com/rrimm/mariage/assets/119832853/7298bc4a-4484-4df6-83e6-4408c0039e47)
+
 
 </br>
 
@@ -51,11 +61,25 @@
 
 주류의 카테고리와 별점, 도수를 지정하여 검색할 수 있어요!
 
+![filter1-gif](https://github.com/rrimm/mariage/assets/119832853/cba00374-e0ed-4c93-a323-107b78a5e3e2)
+![filter2-gif](https://github.com/rrimm/mariage/assets/119832853/03175549-baad-4d71-a2d2-983f1e028976)
+
+</br>
+
+⭐ **주류와 어울리는 궁합 음식 순위를 확인해보세요!**
+
+사용자들이 추천한 궁합 음식을 확인할 수 있어요!
+
+![food-gif](https://github.com/rrimm/mariage/assets/119832853/5972a4d9-f7ba-4061-a251-22387870bed4)
+
+
 </br>
 
 ⭐ **주류에 대한 리뷰를 남겨주세요!**
 
 주류와 어울리는 궁합 음식에 대한 리뷰를 남겨주세요!
+
+![review-gif](https://github.com/rrimm/mariage/assets/119832853/1008c0ea-09bf-4ce7-8c71-4de955fcb3ad)
 
 </br>
 
@@ -63,11 +87,15 @@
 
 좋아요 기능으로 해당 리뷰가 마음에 든다면 좋아요를 눌러주세요!
 
+![like-gif](https://github.com/rrimm/mariage/assets/119832853/90d813ba-5c76-4568-9f27-b74b7c38e430)
+
 </br>
 
 ⭐ **자신의 리뷰, 타인의 리뷰를 모아서보세요!**
 
 자신 혹은 타인의 리뷰를 모아서 볼 수 있습니다!
+
+![user-review-gif](https://github.com/rrimm/mariage/assets/119832853/762c4066-084e-42c7-a767-6bc1f494ad7b)
 
 </br>
 
