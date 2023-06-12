@@ -35,6 +35,9 @@
 
 [OPEN API(Open Weather Map)](https://openweathermap.org/)을 사용하여 사용자들이 특정 날씨에 선호하는 주류를 확인할 수 있어요!
 
+![weather-gif](https://github.com/rrimm/mariage/assets/119832853/8ba8d7f4-268b-4b45-954a-db28fdc5c7c0)
+
+
 </br>
 
 ⭐ **최근 일주일, 한달, 전체 기간동안 인기가 많은 주류를 알려줍니다!**
