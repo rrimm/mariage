@@ -29,6 +29,9 @@ dependencies {
     runtimeOnly 'com.mysql:mysql-connector-j'
     implementation 'org.springframework.boot:spring-boot-starter-data-redis'
     runtimeOnly 'com.h2database:h2'
+    /* Postgresql */
+    implementation group: 'org.postgresql', name:'postgresql'
+    runtimeOnly 'org.postgresql:postgresql'
     /* Security */
     implementation 'org.springframework.boot:spring-boot-starter-security'
     testImplementation 'org.springframework.security:spring-security-test'
@@ -49,6 +52,7 @@ dependencies {
     /* Spring Rest Docs */
     asciidoctorExt 'org.springframework.restdocs:spring-restdocs-asciidoctor'
     testImplementation 'org.springframework.restdocs:spring-restdocs-mockmvc'
+
 }
 
 /* Querydsl Start */
