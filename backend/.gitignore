@@ -8,6 +8,7 @@ build/
 **/resources/security/*.yml
 **/generated
 *.log
+**/docker/docker-elk/logstash/pipeline/
 
 ### STS ###
 .apt_generated
